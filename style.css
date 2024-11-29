@@ -1,4 +1,15 @@
-body{
-    color:white;
-    background-color: black;
+*{
+    margin: 0%;
+    padding: 0%;
 }
+
+
+body{
+    color: white;
+    background-color: #40434e ;
+}
+
+/* coloors too use */
+ /* body = 40434e */
+ /*body element or header bright color = 702632 */
+ /*body element or header black  = 080705 */
