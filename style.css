@@ -1,6 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
+    box-sizing: border-box;
 }
 
 
@@ -8,6 +9,32 @@ body{
     color: white;
     background-color: #40434e ;
 }
+
+.nav{ 
+    background-color: #702632;
+    justify-content:space-between;
+    align-items: center;
+    display: flex;
+    padding: 10px 20px;
+}
+
+.nav h1{
+   margin:0;     
+   font-size: 24px;
+}
+
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    
+}
+.item div{
+    padding: 10px 15px;
+    
+}
+
+
 
 /* coloors too use */
  /* body = 40434e */
